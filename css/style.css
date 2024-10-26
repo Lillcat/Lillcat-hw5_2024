@@ -208,7 +208,7 @@ Set animation to stop in this media query */
   }
 
   /* Step 20: No part of the gallery should be visible. */
-  .gallery {
+  .gallery, #gallery {
     display: none;
   }
 
